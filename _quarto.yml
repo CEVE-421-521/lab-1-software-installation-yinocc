@@ -1,0 +1,12 @@
+format: 
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry:
+      - margin=1in  
+    number-sections: true
+    code-line-numbers: true
+    colorlinks: true
+
+
+date-format: "ddd., MMM. D"
