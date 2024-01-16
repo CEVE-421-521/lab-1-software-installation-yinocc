@@ -1,12 +1,11 @@
 ---
 title: "Lab 1: Software Installation"
 subtitle: "Julia, Quarto, GitHub"
-author: "CEVE 421/521" # TODO: add your name here
+author: "Jiayue Yin jy152"
 jupyter: julia-1.10
-date: 2024-01-12
+date: 2024-01-15
 week: 1
 categories: [Lab]
-
 format: 
     html: default
 
